@@ -1,0 +1,137 @@
+.selections
+{
+    font-family: Roboto;
+    display: inline;
+    padding-right: 20px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.menubar
+{
+    text-align: left;
+    background-color: rgb(78, 78, 78);
+    top: 0px;
+    padding-top: 20px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,109,4,1) 0%, rgba(252,153,4,1) 14%, rgba(249,213,5,1) 29%, rgba(244,241,5,1) 52%, rgba(199,244,5,1) 77%, rgba(191,244,5,1) 92%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: fixed;
+    width: 1500px;
+    margin-top: 0px;
+    height: 40px;
+}
+body
+{
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+
+    color: blueviolet;
+}
+#brand
+{
+    padding-left: 5px;
+    padding-right: 70px;
+}
+h2
+{
+    font-family: "Playwrite NL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 30px;
+    font-style: normal;
+}
+#profilepic
+{
+    height: 260px;
+    width: 210px;
+    border-radius: 100px;
+}
+h5
+{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 30px;
+    font-style: normal;
+}
+h4
+{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 30px;
+    font-style: normal;
+}
+hr
+{
+    height: 10px;
+    background-color: black;
+}
+#aboutsec
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(51,255,4,1) 0%, rgba(155,254,12,1) 54%, rgba(194,230,67,1) 100%, rgba(0,212,255,1) 100%);
+    height: 500px;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-align: center;
+}
+#brand2
+{
+    color: black;
+    font-family: "Playwrite PL", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#whitehat
+{
+    height:30px;
+    width:30px;
+}
+#leisuresec
+{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    background: rgb(249,103,36);
+    background: linear-gradient(53deg, rgba(249,103,36,1) 0%, rgba(252,21,178,1) 0%, rgba(252,38,164,1) 5%, rgba(252,65,142,1) 12%, rgba(252,92,120,1) 20%, rgba(253,119,98,1) 32%, rgba(253,141,80,1) 47%, rgba(254,195,34,1) 85%, rgba(255,234,0,1) 100%);
+    height:600px;
+}
+#homesec
+{
+    height: 600px;
+    padding-top: 200px;
+    padding-bottom: 300px;
+}
+#knowIIT
+{
+    font-style: italic;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    background-color: blueviolet;
+    height: 30px;
+    width: 190px;
+    border-radius: 20px;
+    color: azure;
+}
+#viscode
+{
+    height:30px;
+    width:30px;
+    border-radius:100px;
+    border-color:black;
+}
+#lego
+{
+    height:30px;
+    width:30px;
+    border-radius:100px;
+    border-color:black;
+}
+#leisuretext
+{
+    padding-top:300px;
+    padding-bottom:300px;
+}
